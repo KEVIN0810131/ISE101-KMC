@@ -1,0 +1,15 @@
+node_modules/
+.expo/
+dist/
+web-build/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+*.tsbuildinfo
+npm-debug.*
+*.pem
+ios/
+android/
+.vscode/
